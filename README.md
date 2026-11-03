@@ -3,7 +3,7 @@
 MeshCore is a lightweight, portable C++ library that enables multi-hop packet routing for embedded projects using LoRa and other packet radios. It is designed for developers who want to create resilient, decentralized communication networks that work without the internet.
 
 ## About lusofw
-Lusofw is the official MeshCore firmware distribution tailored specifically for the Portuguese community. This project aims to enhance the user experience with quality-of-life improvements while maintaining compatibility with the upstream MeshCore repository.
+Lusofw is the official MeshCore firmware distribution tailored specifically for the international community. This project aims to enhance the user experience with quality-of-life improvements while maintaining compatibility with the upstream MeshCore repository.
 
 ### Philosophy
 
@@ -30,6 +30,6 @@ lusofw layers Portugal-focused defaults and quality-of-life enhancements on top 
 
 ### Links
 
-- Official Portuguese website: https://meshcore.pt
-- Online flasher: https://flasher.meshcore.pt
+- Official Portuguese website: https://meshcorn.pt
+- Online flasher: https://flasher.meshcorn.pt
 - Original website: https://meshcore.io/
